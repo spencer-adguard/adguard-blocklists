@@ -69,3 +69,4 @@
 ||gameforge.com^
 ||now.gg^
 ||counter-strike.net^
+||gamehollywood.com^
