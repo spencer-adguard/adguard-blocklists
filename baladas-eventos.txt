@@ -1,19 +1,35 @@
 ! =========================================================
-! BLOQUEIO - BALADAS E EVENTOS
+! BLOQUEIO - EVENTOS E INGRESSOS
+! Uso: AdGuard Home
+! Política: Bloqueio por padrão / liberação sob solicitação
 ! =========================================================
 
-||baressp.com.br^
-||noktatickets.com.br^
+! ---------------------------------------------------------
+! VENDA DE INGRESSOS E EVENTOS
+! ---------------------------------------------------------
+
+||ingresso.com^
 ||sympla.com.br^
 ||ingresse.com^
-||shotgun.live^
 ||eventbrite.com.br^
-||ticket360.com.br^
-||clubedoingresso.com^
 ||ticketmaster.com.br^
 ||eventim.com.br^
+||ticket360.com.br^
+||clubedoingresso.com^
 ||totalacesso.com^
 ||ticketsforfun.com.br^
 ||uhuu.com^
 ||bilheteriadigital.com^
 ||zig.tickets^
+||shotgun.live^
+
+! ---------------------------------------------------------
+! BALADAS, FESTAS E AGENDA DE EVENTOS
+! ---------------------------------------------------------
+
+||baressp.com.br^
+||noktatickets.com.br^
+
+! =========================================================
+! FIM DA LISTA
+! =========================================================
