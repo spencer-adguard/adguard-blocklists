@@ -1,0 +1,8 @@
+# ==========================================
+# SERVICOS CORPORATIVOS
+# LIBERACOES - ADGUARD HOME
+# ==========================================
+
+# OMIE - GESTAO EMPRESARIAL
+@@||cdn.omie.com.br^
+@@||portal.omie.com.br^
