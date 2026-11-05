@@ -1,0 +1,29 @@
+# Bancos tradicionais
+@@||itau.com.br^
+@@||bb.com.br^
+@@||bradesco.com.br^
+@@||santander.com.br^
+@@||caixa.gov.br^
+@@||safra.com.br^
+@@||banrisul.com.br^
+@@||bancointer.com.br^
+
+# Bancos digitais
+@@||nubank.com.br^
+@@||inter.co^
+@@||c6bank.com.br^
+@@||neon.com.br^
+@@||btgpactual.com^
+@@||original.com.br^
+
+# Cooperativas
+@@||sicoob.com.br^
+@@||sicredi.com.br^
+@@||unicred.com.br^
+
+# Pagamentos
+@@||mercadopago.com.br^
+@@||pagbank.com.br^
+@@||stone.com.br^
+@@||getnet.com.br^
+@@||cielo.com.br^
