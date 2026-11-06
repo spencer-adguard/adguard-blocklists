@@ -1,0 +1,20 @@
+# ==========================================
+# SERVICOS GOVERNAMENTAIS - ADGUARD HOME
+# ==========================================
+
+# ESOCIAL - PORTAL, LOGIN E WEB SERVICES
+@@||esocial.gov.br^
+
+# GOV.BR - AUTENTICACAO E SERVICOS
+@@||acesso.gov.br^
+
+# PORTAL DE SERVICOS GOVERNAMENTAIS
+@@||gov.br^
+
+# CAIXA - CONECTIVIDADE SOCIAL
+# Ja existente na lista de bancos
+# @@||caixa.gov.br^
+
+# FGTS
+# Ja existente na lista de bancos
+# @@||fgts.gov.br^
