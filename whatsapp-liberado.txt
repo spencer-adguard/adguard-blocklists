@@ -1,0 +1,12 @@
+# ==========================================
+# WHATSAPP - LIBERACAO ADGUARD HOME
+# ==========================================
+
+# WHATSAPP WEB E SERVICOS
+@@||whatsapp.com^
+
+# CONEXOES, MIDIAS E TELEMETRIA
+@@||whatsapp.net^
+
+# LINKS DIRETOS PARA CONVERSAS
+@@||wa.me^
