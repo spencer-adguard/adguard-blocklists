@@ -1,4 +1,9 @@
-# Bancos tradicionais
+# ==========================================
+# BANCOS E SERVICOS FINANCEIROS
+# LIBERACOES - ADGUARD HOME
+# ==========================================
+
+# BANCOS TRADICIONAIS
 @@||itau.com.br^
 @@||bb.com.br^
 @@||bradesco.com.br^
@@ -6,24 +11,30 @@
 @@||caixa.gov.br^
 @@||safra.com.br^
 @@||banrisul.com.br^
-@@||bancointer.com.br^
 
-# Bancos digitais
+# BANCOS DIGITAIS
 @@||nubank.com.br^
+@@||bancointer.com.br^
 @@||inter.co^
 @@||c6bank.com.br^
 @@||neon.com.br^
 @@||btgpactual.com^
 @@||original.com.br^
+@@||bibdigital.com.br^
 
-# Cooperativas
+# COOPERATIVAS
 @@||sicoob.com.br^
+@@||sicoobnet.com.br^
 @@||sicredi.com.br^
 @@||unicred.com.br^
 
-# Pagamentos
+# PAGAMENTOS
 @@||mercadopago.com.br^
 @@||pagbank.com.br^
 @@||stone.com.br^
 @@||getnet.com.br^
 @@||cielo.com.br^
+
+# CAIXA - CONECTIVIDADE SOCIAL E FGTS
+# A regra caixa.gov.br acima ja libera seus subdominios
+@@||fgts.gov.br^
