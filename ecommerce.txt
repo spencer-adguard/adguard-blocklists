@@ -1,0 +1,22 @@
+# ==================================
+# E-COMMERCE E MARKETPLACES
+# ==================================
+
+# MERCADO LIVRE - DOMINIOS PRINCIPAIS
+||mercadolivre.com.br^
+||mercadolivre.com^
+||mercadolibre.com^
+||mercadolibre.com.br^
+
+# MERCADO LIVRE - IMAGENS E ARQUIVOS
+||mlstatic.com^
+
+# MERCADO LIVRE - PUBLICIDADE
+||mercadoclics.com^
+
+# MERCADO LIVRE - SERVICOS AUXILIARES
+||meli.com^
+
+# AMAZON - LOJA VIRTUAL
+||amazon.com.br^
+||amazon.com^
